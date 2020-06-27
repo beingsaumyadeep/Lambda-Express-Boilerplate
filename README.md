@@ -5,7 +5,7 @@ Credits - Main Repo
 
 [Original Documentation](https://github.com/awslabs/aws-serverless-express/tree/master/examples/basic-starter)
 
-### Uses AWS Cloudfront for setting up AWS Lambda, AWS API GateWay and AWS S3 Bucket
+### Uses AWS Cloudformation for setting up AWS Lambda, AWS API GateWay and AWS S3 Bucket
 
 
 ## Setup Steps
